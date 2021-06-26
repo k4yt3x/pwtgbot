@@ -1,0 +1,3 @@
+loguru
+pwsearch
+python-telegram-bot
